@@ -1,35 +1,7 @@
-# <u>**HBM Nuclear Tech Mod - 1.12.2 Extended Edition**</u>
+# How the fuck can i compile this version?
 
-This is my 1.12.2 custom version of the mod
+NO you fucking can't, the gradle configuration is literally just a fucking aneurism and like i cant fucking read it
 
-which is forked from the fork made by [TheOriginalGolem](https://github.com/TheOriginalGolem/Hbm-s-Nuclear-Tech-GIT)
-which is forked from the port made by [Drillgon200](https://github.com/Drillgon200/Hbm-s-Nuclear-Tech-GIT)
-which is ported from the original mod made by [HBMTheBobcat](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT).
+# What's changed? NOTHING, Fucking nothing
 
-
-The latest version can be found on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition) or [Modrinth](https://modrinth.com/mod/ntm-extended) or under the [Releases page](https://github.com/Alcatergit/Hbm-s-Nuclear-Tech-GIT/releases).
-
-If you have question or suggestions you can post them on our [NTM Extended Discord](https://discord.gg/Auq95eCEtD)
-
-### **Want to contribute?**
-
-If you want to contribute make a pull request and I'll review it as soon as possible.
-Every contribution is very much appreciated by me and the players.
-
-### **Build Guide:**
-
-Download the repository, then open a shell prompt in that folder, then type the following:
-
-`.\gradlew build`
-
-Press enter.
-
-Now just wait for the build to finish and the new Jar file will be in `Hbm-s-Nuclear-Tech-GIT\build\libs`.
-
-
-#### Discords:
-
-Alcater#2644
-Golem#9568
-Drillgon200#0288
-The Bobcat#8817
+# Where can i download? FUCK YOU, you have to compile it yourself, i can't just publish this to curseforge because why the fuck am i gonna do that when the fucking gradle configuration on this project is a literal aneurysm and i can't even get it to work on MY FUCKING DEV ENVIRONMENT LIKE HOW CAN I DOWNLOAD THE MISSING DEPENDCIES IT SLIKE FUCKING ANEURYSM MY DAD WOKSAT PLA SATAION AND HE SUE YOU 
